@@ -1,3 +1,4 @@
+/* Comments for Github */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -12,11 +13,11 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0rem calc((100vw - 1300px) / 2);
+  padding: 0rem calc((100vw - 1300px) / 2);
   }
   
   .logo {
-    color: #000;
+    color: black;
     font-size: 1.5rem;
     font-weight: bold;
     font-style: italic;
@@ -25,12 +26,12 @@
   
   nav a {
     text-decoration: none;
-    color: #000;
+    color: black;
     padding: 0 1.5rem;
   }
   
   nav a:hover {
-    color: #fff;
+    color: white;
   }
   
   .hero {
@@ -49,7 +50,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    color: #000;
+    color: black;
     padding: 0rem 2rem;
   }
   
@@ -69,7 +70,7 @@
     font-size: 1rem;
     border: none;
     color: #fdcc04;
-    background: #000;
+    background: black;
     cursor: pointer;
     border-radius: 50px;
   }
